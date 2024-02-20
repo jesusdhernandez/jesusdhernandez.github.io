@@ -19,7 +19,7 @@ title: Senior Project # the main title
 tagline: Site for my blog posts! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My senior project, which involves a redundant backup machine and an IT internship!
+  My senior project, which involves a redundant backup machine ran on TrueNAS and an IT internship!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
